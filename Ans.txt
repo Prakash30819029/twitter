@@ -1,0 +1,15 @@
+1. git
+2. prometheus and grafana
+3. 
+4. version control system
+5. it is a nither a tool an applicaton/it is aprocess
+6. working directory, staging area , git directory
+7. 
+8. git clean
+9. git clone
+10. git add   or git add -A
+11. packeing
+12. it is version controling service
+13. git status
+14. Docker
+15. terraform                           
